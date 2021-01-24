@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="my_photos">Charlie Knows Best</string>
+    <string name="address_of_business">Tryasina 229</string>
+    <string name="contacts">+996707444345</string>
+    <string name="descriptions">Description</string>
+    <string name="text">Charlie’s Adventures: Close To Home is a beautifully illustrated and “dogs-eye-view” of the world around us. It is a trip to the mountains, lakes, beaches, and historical cities. Charlie’s observations and wonders make this book a perfect book to settle down with a child and enjoy some mild history taught brilliantly by the writer through her Sheltie dog’s eyes.</string>
+    <string name="book1text">Book 1</string>
+    <string name="books">Read About My Adventures</string>
+    <string name="web_page_text">https://charlieknowsbest.com</string>
+    <string name="gmail_text">azamatmambetaliev229@gmail.com</string>
+    <string name="book1">book1</string>
+    <string name="book2">book2</string>
+    <string name="book3">book3</string>
+</resources>
